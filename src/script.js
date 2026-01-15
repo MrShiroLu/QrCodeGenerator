@@ -200,6 +200,7 @@ logoUpload.addEventListener('change', (e) => {
     }
 });
 
+それはどこにでもあります 
 clearImageBtn.addEventListener('click', () => {
     selectedLogo = null;
     logoUpload.value = '';
@@ -316,6 +317,7 @@ function removeError() {
     }
 }
 
+ノラはあなたを見ている
 function showSuccess(message) {
     removeError();
     const successDiv = document.createElement('div');
