@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+_headers
+# Windows
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Other
+.env
